@@ -1,0 +1,200 @@
+.faq {
+  position: absolute;
+  top: 535px;
+  left: 359px;
+  font-weight: 500;
+}
+.component-1-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-38xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  mix-blend-mode: luminosity;
+}
+.click-here {
+  position: absolute;
+  top: calc(50% - 26.5px);
+  left: calc(50% - 102px);
+  font-weight: 500;
+}
+.component-1-1 {
+  position: absolute;
+  top: 623px;
+  left: 207px;
+  width: 422px;
+  height: 171px;
+  font-size: var(--font-size-26xl);
+}
+.staff {
+  top: 535px;
+  left: 905px;
+}
+.ask-a-question,
+.staff,
+.welcome {
+  position: absolute;
+  font-weight: 500;
+}
+.ask-a-question {
+  top: 535px;
+  right: 211px;
+}
+.welcome {
+  top: 287px;
+  left: 887px;
+  font-size: var(--font-size-16xl);
+}
+.we-offer-world {
+  margin: 0;
+}
+.we-offer-world-container {
+  position: absolute;
+  top: 351px;
+  left: 493px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.meet-our-furry {
+  position: absolute;
+  top: 1065px;
+  left: 670px;
+  font-weight: 500;
+}
+.path-3-icon {
+  position: absolute;
+  top: 1985px;
+  left: 0;
+  width: 1920px;
+  height: 0;
+}
+.dog2-icon,
+.dog3-icon {
+  position: absolute;
+  top: 1151px;
+  height: 499px;
+  object-fit: cover;
+}
+.dog2-icon {
+  left: 101px;
+  width: 750px;
+}
+.dog3-icon {
+  right: 110px;
+  width: 748px;
+}
+.this-is-brody-container,
+.this-is-juju-container {
+  position: absolute;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.this-is-brody-container {
+  bottom: 142px;
+  left: 78px;
+}
+.this-is-juju-container {
+  right: 92px;
+  bottom: 179px;
+}
+.home-page-child {
+  position: absolute;
+  top: 1021px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 59px;
+}
+.brody-co-2024 {
+  position: absolute;
+  top: 1036px;
+  left: 870px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.img-0529-icon {
+  position: absolute;
+  top: 1029px;
+  left: 9px;
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+}
+.component-1-2,
+.component-1-3 {
+  position: absolute;
+  top: 622px;
+  width: 422px;
+  height: 171px;
+  font-size: var(--font-size-26xl);
+}
+.component-1-3 {
+  right: 172px;
+}
+.component-1-2 {
+  left: 749px;
+}
+.home-page-item {
+  position: absolute;
+  top: 0;
+  left: -10px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1930px;
+  height: 239px;
+}
+.icon-akar-phone,
+.icon-feather-home {
+  position: absolute;
+  top: 173.7px;
+  left: 936.18px;
+  width: 50.6px;
+  height: 57.6px;
+}
+.icon-akar-phone {
+  left: 1062px;
+  width: 56.5px;
+  height: 57.7px;
+}
+.icon-codicons-account {
+  position: absolute;
+  top: 167.17px;
+  left: 797.93px;
+  width: 60.1px;
+  height: 61.1px;
+  cursor: pointer;
+}
+.brodys-doggy-daycare {
+  position: absolute;
+  top: 31px;
+  left: 619px;
+  font-size: var(--font-size-56xl);
+  font-weight: 500;
+}
+.img-0529-icon1 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  width: 229px;
+  height: 229px;
+  object-fit: cover;
+}
+.home-page {
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  width: 100%;
+  height: 2015px;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-gruppo);
+}

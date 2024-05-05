@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Final_Proj",
+    "id": "6631500c78af85f0e766ac76",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/brodyhill/Desktop/final_project/src/components",
+    "screensPath": "/Users/brodyhill/Desktop/final_project/src/pages"
+  }
+}

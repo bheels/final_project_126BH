@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-gruppo: Gruppo;
+
+  /* font sizes */
+  --font-size-56xl: 75px;
+  --font-size-26xl: 45px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-36xl: 55px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-paleturquoise: #c5fbfd;
+  --color-dimgray: #707070;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-38xl: 57px;
+  --br-6xl: 25px;
+}
